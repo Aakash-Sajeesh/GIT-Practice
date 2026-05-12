@@ -1,0 +1,25 @@
+From b983e55b6a8b3339a05b244791ef400ae28c47a3 Mon Sep 17 00:00:00 2001
+From: Aakash <p.s.aakash.meena@gmail.com>
+Date: Tue, 12 May 2026 22:44:06 +0530
+Subject: [PATCH 2/2] recommiting
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index feb5b51..f16a388 100644
+--- a/index.html
++++ b/index.html
+@@ -19,7 +19,7 @@
+     <h2>My Branch Feature</h2>
+     <P>Portfolio website</P>
+     <p>Built using HTML and Git</p>
+-    <p>main updated content</p>
++    <p>Feature branch content</p>
+     <section>
+   <h2>Contact</h2>
+   <p>Email: example@email.com</p>
+-- 
+2.53.0.windows.1
+
